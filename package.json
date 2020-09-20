@@ -3,5 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Melissa Bredekamp",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1",
+    "yarn": "^1.22.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  },
+  "repository": "https://github.com/Melissa-Bredekamp/Node-Meme-Scraper.git"
 }
